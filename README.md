@@ -4,6 +4,9 @@
 
 ## 目录结构
 
+- 插件列表
+- 常见命令
+
 ## 插件列表
 
 * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) A Git wrapper so awesome, it should be illegal
@@ -12,4 +15,4 @@
 * [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)  Quickstart configs for Nvim LSP
 
 
-## 常用命
+## 常用命令
