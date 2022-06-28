@@ -9,6 +9,7 @@
 * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) A Git wrapper so awesome, it should be illegal
 * [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb) GitHub extension for fugitive.vim
 * [cohama/lexima](https://github.com/cohama/lexima.vim) Auto close parentheses and repeat by dot dot dot...
-* [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) xx
+* [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)  Quickstart configs for Nvim LSP
+
 
 ## 常用命
